@@ -5,11 +5,9 @@ permalink: /
 order: 1
 ---
 
-I'm Fan (Vincent) Mo, currently a Senior Research Engineer at [Trustworthy AI - Shield Lab - Huawei](https://www.huawei.com/en/technology-insights) at Shenzhen. Before this, I have worked/visited in [Nokia Bell Labs - Cambridge](http://www.bell-labs.com/about/locations/cambridge-uk/#gref) and [Arm Research - Security and Systems](https://www.arm.com/resources/research) at Cambridge, and [Telefónica Research](https://www.telefonica.com/en/sustainability-innovation/innovation/telefonica-research/) at Spain.
+I'm Yushan Huang, currently a PhD Student at Imperial College London - [NetSys Lab](target="_blank", rel="noopener noreferrer", https://netsys.doc.ic.ac.uk/index.html) at London, supervised by [Prof. Hamed Haddadi](target="_blank", rel="noopener noreferrer", https://www.imperial.ac.uk/people/h.haddadi). I have a Master of Mechanical Engineering in Huazhong University of Science and Technology, supervised by Prof. Jihong Chen, and a Bachelor of Mechanical Engineering in Shandong University.
 
-I finished my PhD in [Systems and Algorithms Laboratory (SysAL)](https://www.imperial.ac.uk/systems-algorithms-design-lab/) at [Imperial College London](https://en.wikipedia.org/wiki/Imperial_College_London), supervised by [Prof. Hamed Haddadi](https://haddadi.github.io/). I have a Master of Science in Management and a Bachelor of Industrial Engineering (both with rank 1 and outstanding thesis awards) in China, supervised by [Prof. Jia Zhou](http://www.msre.cqu.edu.cn/info/1193/5393.htm), working at Human-computer Interaction Lab. 
-
-My current research focuses on Data Privacy and Trustworthiness in Machine Learning at the Edge, helping users train their machine learning models without leakage of their private information, leveraging techniques such as Trusted Execution Environments. My previous research focuses on human behavior on wearable/mobile devices and social network sites. I have many experiences in User Study, Usability Evaluation and Test, UX/UI design, Prototype Develop and Evaluation, etc. I enjoy working in interdisciplinary fields and love ''beautiful'' things in both science and humanities.
+My current research focuses on Data Mining and Model Adaptation in Machine Learning at the Edge, helping users mining more useful potential information from the raw data, compressing and adapting the model to resource-limited edge devices. My previous research focuses on applying ML models on CNC machine tools. I also have many experiences in CAD/CAM/CNC disign, C/C++ development, Usability Evaluation and Test, Prototype Develop and Evaluation, etc. I enjoy working in interdisciplinary fields and love ''beautiful'' things in both science and humanities.
 
 
 ### Selected Papers
@@ -35,4 +33,4 @@ My current research focuses on Data Privacy and Trustworthiness in Machine Learn
 
 ### Contact me
 
-[mofan1992@gmail.com](mailto:mofan1992@gmail.com)
+[yushan.huang21@imperial.ac.uk](mailto:mofan1992@gmail.com)
