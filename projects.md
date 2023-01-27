@@ -1,84 +1,68 @@
 ---
 layout: page
-title: Projects/Interships/Works
+title: Projects/Interships/Honors
 permalink: /projects/
 order: 3
 ---
-#### Partition-based Federated Learning for Tiny End Devices (*Internship*)
-**July. 2022 ~ Sept. 2022**
-At: [Nokia Bell Labs](https://www.bell-labs.com/).
+### Projects:
+
+### Huazhong 9 - A New Generation of Intelligent CNC System (*Project Manager*)
+**Sep. 2019 ~ Jun. 2021**
+
+Cooperating with: Prof. Jihong Chen, Huazhong University of Science and Technology, China
+
+* Analysed the relatonship between machining thermal error and electro-control data;
+* Built LSTM model to predict machining thermal errors;
+* Transplanted LSTM model to CNC machine tools.
 
 
-#### Cross-platform Privacy-preserving Machine Learning (*Internship*)
-**July. 2021 ~ Sept. 2021**
+### Research on Four-axis Digital Milling of Ship Model Surface (*Team Leader*)
+**Oct. 2018 ~ Jun. 2019**
 
-At: [Arm Research](https://www.arm.com/resources/research).
+Cooperating with: Prof. Linsen Zhu, Shandong University, China
 
-* Develop centralized learning and federated learning applications on top of [Veracruz project](https://veracruz-project.github.io/).
-
-
-#### EPSRC Databox: Privacy-Aware Infrastructure for Managing Personal Data (*Research Postgraduate in SysAL*)
-**Oct. 2018 ~ Current**
-
-At: [Systems and Algorithms Laboratory](https://www.imperial.ac.uk/systems-algorithms-design-lab/), Imperial College
-
-* Research on deep learning at the edge with trusted execution environments.
+* Programmed 2D to 3D drawing conversion codes;
+* Build 3D ship model and designed machining too path;
+* Proposed methods of slicing process and waterline process to improve machining accuracy.
 
 
-#### Privacy-preserving Federated Learning (*Internship*)
-**Sept. 2020 ~ Jan. 2021**
+### Mechanism of Dieless Single Point Incremental Forming of Magnesium Alloy Sheet Assisted by High Energy Electric Pulse
+**Sep. 2017 ~ Jun. 2018**
 
-Cooperating with: [Telefonica Research](https://www.telefonica.com/en/web/innovation/core-innovation/research)
+Cooperating with: Prof. Xingrong Chu, Shandong University, China
 
-* Explore federated learning with model partitioned execution using clients' TEEs, in order to achieve privacy-preserving FL and guarantee information leakage of shared models/gradients.
-
-
-#### Edge Computing and Cyber Physical Systems (Huawei Innovation Research Program)
-**Jul. 2019 ~ Jan. 2020**
-
-Cooperating with: Huawei Technologies
-
-* Explore on-device deep learning with trusted execution environments with a balance achieved between system cost and model privacy.
+* Programmed monitoring codes.
 
 
-#### Research on Intelligence Systems of the Aged Nursing Care Based on Technology Acceptance
-**Jun. 2016 ~ Jul. 2018**
+### Intelligent Operation and Cleaning Robot for the Photovoltaic Power Station (*Team Leader*)
+**Sep. 2017 ~ Jun. 2018**
 
-Cooperating with: Institute of Human Factors and Ergonomics, Tsinghua University, China; Yuan Ze University, Taiwan, China
+Cooperating with: Shandong University, China
 
-* Interviewing on the intergenerational communication;
-* designing experiments to analyze the impact of social robots’ characteristics and conducting experiments on the elderly’s gait.
+* Designed the robot structure, carried out the force analysis and structure analysis;
+* Programmed robot control codes;
+* Achieved the function of water free and cross-board cleaning, automatic dirt identification, automatic cleaning strength adjustment, and automatic solar charging.
 
+### ------------------------------------------------------------------------------------------------
+### Interships:
 
-#### Research on Behaviour Pattern Recognition of Web Users based on Trusted Interaction Mechanism and Big Data Project Manager (*Project Manager*)
-**Apr. 2016 ~ Mar. 2018**
+### China Scholar Council (CSC), 2021 ~ 2025.
+### Wu Ya Scholarship, Huazhong University of Science and Technology, 2020.
+### Zhi Xing Scholarship, Huazhong University of Science and Technology, 2020.
+### Outstanding student scholarship, Huazhong University of Science and Technology, 2019, 2020.
+### Outstanding student scholarship, Shandong University, 2017, 2018.
+### Social practice scholarship, Shandong University, 2016.
 
-* building mouse behaviour patterns through machine learning methods;
-* recognizing the credibility of usage behaviour.
-
-
-#### Usage Patterns and Social Circles on Facebook among Elderly People (*Project Manager*)
-**Jul. 2016 ~ Mar. 2017**
-
-Cooperating with: The project [myPersonality](https://www.psychometrics.cam.ac.uk/productsservices/mypersonality) in the Psychometrics Centre, University of Cambridge, UK, and Stanford Graduate School of Business, USA
-
-* Extracting the elderly’s data from facebook dataset (224 million records);
-* adopting statistical analysis and social network analysis;
-* considering the influence of personality traits.
-
-
-#### Statistical Simulation of the Performance of Surface Texture (*Project Manager*)
-**Mar. 2016 ~ Mar. 2017**
-
-Cooperating with: Department of Mechanical Engineering, Louisiana State University, US
-
-* Applying statistical methods and machine learning methods to analyze the influence of dimensional uncertainty on surface texture performance.
-
-
-#### Design Guidelines on User Interface of E-commerce Platform by Cross-devices
-**Oct. 2014 ~ Dec. 2015**
-
-Cooperating with: User Experience Design, Alibaba International
-
-* Investigating features of the market of e-commerce;
-* Making interface prototypes on smartwatches and smartphones, filming and making videos.
+### ------------------------------------------------------------------------------------------------
+### Honors:
+### Outstanding graduate, Shandong University, 2019.(*Award rate 5%*)
+### Outstanding student member, Shandong University, 2017, 2018.
+### Outstanding individual in social practice, Shandong, China, 2018.
+### 2nd prize, National university mechanical innovation competition, China, 2018.
+### 2nd prize, National undergraduate electronics design contest, China, 2018.
+### 2nd prize, Shandong province student electromechanical product innovation design competition, Shandong, China, 2018.
+### Silver medal, China university's entrepreneurship competition, Shandong, China, 2018.
+### Bronze medal, China university's internet plus innovation and entrepreneurship competition, Shandong, China, 2018.
+### 3rd prize, National university student science contest and social practice on energy saving & emission reduction, China, 2018.(*Award rate 3%*)
+### 2nd prize, National university student science contest and social practice on energy saving & emission reduction, China, 2017.(*Award rate 1.6%*)
+### 2nd prize, National university student science contest and social practice on energy saving & emission reduction, China, 2017.(*Award rate 1.6%*)

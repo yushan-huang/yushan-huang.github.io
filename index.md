@@ -10,7 +10,7 @@ I'm Yushan Huang, currently a PhD Student at Imperial College London - [NetSys L
 My current research focuses on Data Mining and Model Adaptation in Machine Learning at the Edge, helping users mining more useful potential information from the raw data, compressing and adapting the model to resource-limited edge devices. My previous research focuses on applying ML models on CNC machine tools. I also have many experiences in CAD/CAM/CNC disign, C/C++ development, Usability Evaluation and Test, Prototype Develop and Evaluation, etc. I enjoy working in interdisciplinary fields and love ''beautiful'' things in both science and humanities.
 
 
-### Selected Papers
+<!-- ### Selected Papers
 
 **Fan Mo**, Hamed Haddadi, Kleomenis Katevas, Eduard Marin, Diego Perino, Nicolas Kourtellis. "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments." Accepted to *[ACM MobiSys 2021](https://www.sigmobile.org/mobisys/2021/), Mars, Solar System, Milky Way, June 2021.* [Paper](http://arxiv.org/abs/2104.14380), [GetMobile Highlight](https://dl.acm.org/doi/abs/10.1145/3529706.3529715), [Codes](https://github.com/mofanv/PPFL), [Teaser Video](https://www.youtube.com/watch?v=pBtsA0NGDzs), [Full Video](https://www.youtube.com/watch?v=r5yxjo5V1L8) (**Best Paper Award!**)
 
@@ -18,7 +18,7 @@ My current research focuses on Data Mining and Model Adaptation in Machine Learn
 
 **Fan Mo**, and Jia Zhou. "Adapting smartwatch interfaces to hand gestures during movements: Offset models and the C-shaped pattern of tapping". *Journal of Ambient Intelligence and Humanized Computing (2020)*. [Paper](https://rdcu.be/b7Du5), [Code and data](https://github.com/mofanv/use-smartwatch-movement), [Invention Grant - Eng.](https://patents.google.com/patent/CN108446019B/en) , [发明专利 - 中文](https://patentimages.storage.googleapis.com/95/6a/8f/1fefc3e194b5a6/CN108446019B.pdf)
 
-**Fan Mo**, Jia Zhou, Michal Kosinski, and David Stillwell. "Usage patterns and social circles on Facebook among elderly people with diverse personality traits." *Educational Gerontology* 44, no. 4 (2018): 265-275. [paper](https://www.tandfonline.com/doi/abs/10.1080/03601277.2018.1459088)
+**Fan Mo**, Jia Zhou, Michal Kosinski, and David Stillwell. "Usage patterns and social circles on Facebook among elderly people with diverse personality traits." *Educational Gerontology* 44, no. 4 (2018): 265-275. [paper](https://www.tandfonline.com/doi/abs/10.1080/03601277.2018.1459088) -->
 
 
 <!--### Scholarships/Awards
@@ -33,4 +33,4 @@ My current research focuses on Data Mining and Model Adaptation in Machine Learn
 
 ### Contact me
 
-[yushan.huang21@imperial.ac.uk](mailto:mofan1992@gmail.com)
+[yushan.huang21@imperial.ac.uk](mailto:yushan.huang21@imperial.ac.uk)
