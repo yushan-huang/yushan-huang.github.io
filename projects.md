@@ -46,23 +46,23 @@ Cooperating with: Shandong University, China
 ### ------------------------------------------------------------------------------------------------
 ### Interships:
 
-### China Scholar Council (CSC), 2021 ~ 2025.
-### Wu Ya Scholarship, Huazhong University of Science and Technology, 2020.
-### Zhi Xing Scholarship, Huazhong University of Science and Technology, 2020.
-### Outstanding student scholarship, Huazhong University of Science and Technology, 2019, 2020.
-### Outstanding student scholarship, Shandong University, 2017, 2018.
-### Social practice scholarship, Shandong University, 2016.
+#### China Scholar Council (CSC), 2021 ~ 2025.
+#### Wu Ya Scholarship, Huazhong University of Science and Technology, 2020.
+#### Zhi Xing Scholarship, Huazhong University of Science and Technology, 2020.
+#### Outstanding student scholarship, Huazhong University of Science and Technology, 2019, 2020.
+#### Outstanding student scholarship, Shandong University, 2017, 2018.
+#### Social practice scholarship, Shandong University, 2016.
 
 ### ------------------------------------------------------------------------------------------------
 ### Honors:
-### Outstanding graduate, Shandong University, 2019.(*Award rate 5%*)
-### Outstanding student member, Shandong University, 2017, 2018.
-### Outstanding individual in social practice, Shandong, China, 2018.
-### 2nd prize, National university mechanical innovation competition, China, 2018.
-### 2nd prize, National undergraduate electronics design contest, China, 2018.
-### 2nd prize, Shandong province student electromechanical product innovation design competition, Shandong, China, 2018.
-### Silver medal, China university's entrepreneurship competition, Shandong, China, 2018.
-### Bronze medal, China university's internet plus innovation and entrepreneurship competition, Shandong, China, 2018.
-### 3rd prize, National university student science contest and social practice on energy saving & emission reduction, China, 2018.(*Award rate 3%*)
-### 2nd prize, National university student science contest and social practice on energy saving & emission reduction, China, 2017.(*Award rate 1.6%*)
-### 2nd prize, National university student science contest and social practice on energy saving & emission reduction, China, 2017.(*Award rate 1.6%*)
+#### Outstanding graduate, Shandong University, 2019.(*Award rate 5%*)
+#### Outstanding student member, Shandong University, 2017, 2018.
+#### Outstanding individual in social practice, Shandong, China, 2018.
+#### 2nd prize, National university mechanical innovation competition, China, 2018.
+#### 2nd prize, National undergraduate electronics design contest, China, 2018.
+#### 2nd prize, Shandong province student electromechanical product innovation design competition, Shandong, China, 2018.
+#### Silver medal, China university's entrepreneurship competition, Shandong, China, 2018.
+#### Bronze medal, China university's internet plus innovation and entrepreneurship competition, Shandong, China, 2018.
+#### 3rd prize, National university student science contest and social practice on energy saving & emission reduction, China, 2018.(*Award rate 3%*)
+#### 2nd prize, National university student science contest and social practice on energy saving & emission reduction, China, 2017.(*Award rate 1.6%*)
+#### 2nd prize, National university student science contest and social practice on energy saving & emission reduction, China, 2017.(*Award rate 1.6%*)
