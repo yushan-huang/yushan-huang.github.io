@@ -6,7 +6,7 @@ order: 2
 ---
 
 <!-- ### 2022 -->
-**Yushan Huang**, Yuchen Zhao, Capstick Alexander, Francesca Palermo, Hamed Haddadi, Payam Barnaghi. "Information Theory Inspired Pattern Analysis for Time-series Data." under reviewing by *[IEEE Transactions on Knowledge and Data Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69).* [Preprint Paper](https://arxiv.org/abs/2302.11654)
+**Yushan Huang**, Yuchen Zhao, Capstick Alexander, Francesca Palermo, Hamed Haddadi, Payam Barnaghi. "Information Theory Inspired Pattern Analysis for Time-series Data." [Preprint Paper](https://arxiv.org/abs/2302.11654)
 
 **Yushan Huang**, Yuchen Zhao, Hamed Haddadi, Payam Barnaghi. "Using Entropy Measures for Monitoring the Evolution of Activity Patterns." Accepted to *[The 2022 IEEE 8th World Forum on Internet of Things (WF-IoT 2022)](https://wfiot2022.iot.ieee.org/).* [Preprint Paper](https://arxiv.org/abs/2210.01736)
 
