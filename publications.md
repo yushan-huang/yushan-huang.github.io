@@ -6,6 +6,8 @@ order: 2
 ---
 
 <!-- ### 2022 -->
+**Yushan Huang**, Hamed Haddadi. "Towards Machine Learning and Inference for Resource-constrained MCUs." Accepted to *[The 21st ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2023)](https://www.sigmobile.org/mobisys/2023/).* [Preprint Paper](https://arxiv.org/abs/2305.18954)
+
 **Yushan Huang**, Yuchen Zhao, Capstick Alexander, Francesca Palermo, Hamed Haddadi, Payam Barnaghi. "Information Theory Inspired Pattern Analysis for Time-series Data." [Preprint Paper](https://arxiv.org/abs/2302.11654)
 
 **Yushan Huang**, Yuchen Zhao, Hamed Haddadi, Payam Barnaghi. "Using Entropy Measures for Monitoring the Evolution of Activity Patterns." Accepted to *[The 2022 IEEE 8th World Forum on Internet of Things (WF-IoT 2022)](https://wfiot2022.iot.ieee.org/).* [Preprint Paper](https://arxiv.org/abs/2210.01736)
@@ -14,7 +16,7 @@ order: 2
 
 **Yushan Huang**, Yu Chen, Zhenyu Hu. "Thermal error modeling and analysis of CNC machine tools based on wavelet neural network." Accepted to *[2021 IEEE International Conference on Consumer Electronics and Computer Engineering](https://ieeexplore.ieee.org/xpl/conhome/9341295/proceeding).* [Paper](https://ieeexplore.ieee.org/document/9342155)
 
-**Yushan Huang**, Jihong Chen, Yu Chen, Guangda Xu. "Thermal error modelling for machine tool feed axis based on LSTM neural network considering electro-control data." Accepted to *[Modern Manufacturing Engineering](http://xdzzgc.magtechjournal.com/).* [Paper](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.16731/j.cnki.1671-3133.2021.10.004)
+**Yushan Huang**, Jihong Chen, Yu Chen, Guangda Xu. "Thermal error modeling for machine tool feed axis based on LSTM neural network considering electro-control data." Accepted to *[Modern Manufacturing Engineering](http://xdzzgc.magtechjournal.com/).* [Paper](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.16731/j.cnki.1671-3133.2021.10.004)
 
 <!-- ### 2020 and before -->
 
