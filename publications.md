@@ -6,7 +6,7 @@ order: 2
 ---
 
 <!-- ### 2022 -->
-**Yushan Huang**, Hamed Haddadi. "Towards Machine Learning and Inference for Resource-constrained MCUs." Accepted to *[The 21st ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2023)](https://www.sigmobile.org/mobisys/2023/).* [Preprint Paper](https://arxiv.org/abs/2305.18954)
+**Yushan Huang**, Hamed Haddadi. "Towards Machine Learning and Inference for Resource-constrained MCUs." Accepted to *[The 21st ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2023)](https://www.sigmobile.org/mobisys/2023/).* [Paper](https://dl.acm.org/doi/10.1145/3581791.3597371)
 
 **Yushan Huang**, Yuchen Zhao, Capstick Alexander, Francesca Palermo, Hamed Haddadi, Payam Barnaghi. "Information Theory Inspired Pattern Analysis for Time-series Data." [Preprint Paper](https://arxiv.org/abs/2302.11654)
 
@@ -20,6 +20,6 @@ order: 2
 
 <!-- ### 2020 and before -->
 
-**Yushan Huang**, "Mechanical engineering’s belt cleaning device." *[Chinese patent](https://ieeexplore.ieee.org/document/9342155).*
+**Yushan Huang**, "Mechanical engineering's belt cleaning device." *[Chinese patent](https://ieeexplore.ieee.org/document/9342155).*
 
 Zikun Quan, Gao Ning, **Yushan Huang**. "Research on Vehicle Network Architecture and Key Technologies  Based on Cloud computing and Wsn". Accepted to *2019 International Conference on Math and Engineering.* [Paper](https://webofproceedings.org/proceedings_series/ESR/ICME%202019/D107.pdf)
