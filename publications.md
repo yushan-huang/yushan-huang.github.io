@@ -6,9 +6,10 @@ order: 2
 ---
 
 <!-- ### 2022 -->
-**Yushan Huang**, Hamed Haddadi. "Towards Machine Learning and Inference for Resource-constrained MCUs." Accepted to *[The 21st ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2023)](https://www.sigmobile.org/mobisys/2023/).* [Paper](https://dl.acm.org/doi/10.1145/3581791.3597371)
+**Yushan Huang**, Yuchen Zhao, Capstick Alexander, Francesca Palermo, Hamed Haddadi, Payam Barnaghi. "Analyzing entropy features in time-series data for pattern recognition in neurological conditions." Accepted to *[Artificial Intelligence in Medicine, Elsevier](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine).* [Paper](https://www.sciencedirect.com/science/article/pii/S0933365724000630), [Code](https://github.com/yushan-huang/EntropyPipeline)
 
-**Yushan Huang**, Yuchen Zhao, Capstick Alexander, Francesca Palermo, Hamed Haddadi, Payam Barnaghi. "Information Theory Inspired Pattern Analysis for Time-series Data." [Preprint Paper](https://arxiv.org/abs/2302.11654)
+
+**Yushan Huang**, Hamed Haddadi. "Towards Machine Learning and Inference for Resource-constrained MCUs." Accepted to *[The 21st ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2023)](https://www.sigmobile.org/mobisys/2023/).* [Paper](https://dl.acm.org/doi/10.1145/3581791.3597371)
 
 **Yushan Huang**, Yuchen Zhao, Hamed Haddadi, Payam Barnaghi. "Using Entropy Measures for Monitoring the Evolution of Activity Patterns." Accepted to *[The 2022 IEEE 8th World Forum on Internet of Things (WF-IoT 2022)](https://wfiot2022.iot.ieee.org/).* [Preprint Paper](https://arxiv.org/abs/2210.01736)
 
