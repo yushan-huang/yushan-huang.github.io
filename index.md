@@ -7,7 +7,7 @@ order: 1
 
 I am Yushan Huang, currently a PhD Student at Imperial College London - [NetSys Lab](https://netsys.doc.ic.ac.uk/index.html) at London, supervised by [Prof. Hamed Haddadi](https://www.imperial.ac.uk/people/h.haddadi) and [Prof. Payam Barnaghi](https://www.imperial.ac.uk/people/p.barnaghi). I have a Master of Mechanical Engineering in Huazhong University of Science and Technology, supervised by Prof. Jihong Chen, and a Bachelor of Mechanical Engineering in Shandong University.
 
-My current research focuses on Data Mining and Model Adaptation in Machine Learning at the Edge, helping users mining more useful potential information from the raw data, compressing and adapting the model to resource-limited edge devices. My previous research focuses on applying ML models on CNC machine tools. I also have many experiences in CAD/CAM/CNC disign, C/C++ development, Usability Evaluation and Test, Prototype Develop and Evaluation, etc. I enjoy working in interdisciplinary fields and love ''beautiful'' things in both science and humanities.
+My current research focuses on Low-Energy Adaptive Machine Learning System at the Edge, helping users achieving low energy personalization, compressing and adapting the model to edge/mobile/ultra-low-power devices. My previous research focuses on applying ML models on CNC machine tools. I also have many experiences in CAD/CAM/CNC disign, C/C++ development, Usability Evaluation and Test, Prototype Develop and Evaluation, etc. I enjoy working in interdisciplinary fields and love ''beautiful'' things in both science, music, and humanities.
 
 
 <!-- ### Selected Papers
