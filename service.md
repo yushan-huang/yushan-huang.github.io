@@ -33,7 +33,9 @@ order: 4
 * President of the Student Union Social Practice Department
 (*Jul. 2016 ~ Sept. 2018*)
 
-### Invited Talks
+### Talks
+* "Towards Machine Learning and Inference for Resource-constrained MCUs", [35th Multi-Service Networks workshop (MSN 2023), aka `Coseners 2023'](https://coseners.net/history/previous/coseners-2023/), Oxford, UK, 13-14 July, 2023
+
 <!-- * "Privacy-preserving Federated Learning with Trusted Execution Environments", [Federated Learning One World (FLOW) Seminar](https://sites.google.com/view/one-world-seminar-series-flow/home), Jan. 2022
 
 * "Privacy-preserving Machine Learning with Trusted Execution Environments", Arm Research - System, Cambridge, UK, Jul. 2021
