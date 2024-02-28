@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects/Interships/Honors
+title: Projects/Internships/Honors/Scholarships
 permalink: /projects/
 order: 3
 ---
@@ -43,8 +43,14 @@ Cooperating with: Shandong University, China
 * Programmed robot control codes;
 * Achieved the function of water free and cross-board cleaning, automatic dirt identification, automatic cleaning strength adjustment, and automatic solar charging.
 
+
 ### ------------------------------------------------------------------------------------------------
-### Interships:
+### Internships:
+
+* Computer Science Internship, Brave Software, 1 March 2024 - 31 May 2024.
+
+### ------------------------------------------------------------------------------------------------
+### Scholarships:
 
 * China Scholar Council (CSC), 2021 ~ 2025.
 * Wu Ya Scholarship, Huazhong University of Science and Technology, 2020.
