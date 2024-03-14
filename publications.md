@@ -6,6 +6,8 @@ order: 2
 ---
 
 <!-- ### 2022 -->
+**Yushan Huang**, Ranya Alouf, Xavier Cadet, Yuchen Zhao, Payam Barnaghi, Hamed Haddadi. "MicroT: Low-Energy and Adaptive Models for MCUs." [Preprint Paper](https://arxiv.org/abs/2403.08040). 
+
 **Yushan Huang**, Yuchen Zhao, Capstick Alexander, Francesca Palermo, Hamed Haddadi, Payam Barnaghi. "Analyzing entropy features in time-series data for pattern recognition in neurological conditions." Accepted to *[Artificial Intelligence in Medicine, Elsevier](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine).*, 2024 [Paper](https://www.sciencedirect.com/science/article/pii/S0933365724000630), [Code](https://github.com/yushan-huang/EntropyPipeline)
 
 
