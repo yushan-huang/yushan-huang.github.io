@@ -47,7 +47,8 @@ Cooperating with: Shandong University, China
 ### ------------------------------------------------------------------------------------------------
 ### Internships:
 
-* Computer Science Internship, Brave Software, 1 March 2024 - 31 May 2024.
+* Computer Science Internship, Nokia Bell Labs (Cambridge, UK), 1 June 2024 - 31 August 2024.
+* Computer Science Internship, Brave Software (London, UK), 1 March 2024 - 31 May 2024.
 
 ### ------------------------------------------------------------------------------------------------
 ### Scholarships:
