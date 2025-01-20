@@ -7,6 +7,7 @@ order: 2
 
 <!-- ### 2022 -->
 
+For a complete list, please visit my [Google Scholar](https://scholar.google.com/citations?user=HxUkbHkAAAAJ&hl=en).
 
 
 **Yushan Huang**, Taesik Gong, SiYoung Jang, Fahim Kawsar, Chulhong Min. "Energy Characterization of Tiny AI Accelerator-Equipped Microcontrollers". Accepted to The Second International Workshop on Human-centered Sensing, Networking, and Multi-Device Systems [HumanSys'24](https://humansys-workshop.github.io/WS/2024/index.html), Co-located with SenSys'24 and BuildSys'24, November 4, 2024 - Hangzhou, China. [Paper](https://dl.acm.org/doi/abs/10.1145/3698388.3699628). **Best Paper Award!**
