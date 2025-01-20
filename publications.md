@@ -9,7 +9,7 @@ order: 2
 
 
 
-**Yushan Huang**, Taesik Gong, SiYoung Jang, Fahim Kawsar, Chulhong Min. "Energy Characterization of Tiny AI Accelerator-Equipped Microcontrollers". Accepted to The Second International Workshop on Human-centered Sensing, Networking, and Multi-Device Systems [HumanSys'24](https://humansys-workshop.github.io/WS/2024/index.html), Co-located with SenSys'24 and BuildSys'24, November 4, 2024 - Hangzhou, China. [Paper](https://dl.acm.org/doi/abs/10.1145/3698388.3699628) **Best Paper Award** :trophy:
+**Yushan Huang**, Taesik Gong, SiYoung Jang, Fahim Kawsar, Chulhong Min. "Energy Characterization of Tiny AI Accelerator-Equipped Microcontrollers". Accepted to The Second International Workshop on Human-centered Sensing, Networking, and Multi-Device Systems [HumanSys'24](https://humansys-workshop.github.io/WS/2024/index.html), Co-located with SenSys'24 and BuildSys'24, November 4, 2024 - Hangzhou, China. [Paper](https://dl.acm.org/doi/abs/10.1145/3698388.3699628). **Best Paper Award!**
 
 
 **Yushan Huang**, Ranya Alouf, Xavier Cadet, Yuchen Zhao, Payam Barnaghi, Hamed Haddadi. "Low-Energy and Adaptive Models for MCUs". Accepted to The Ninth ACM/IEEE Symposium on Edge Computing [SEC 2024](https://acm-ieee-sec.org/2024/), December 4-7, 2024, Rome, Italy. [Preprint Paper](https://arxiv.org/abs/2403.08040)
