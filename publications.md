@@ -9,14 +9,18 @@ order: 2
 
 For a complete list, please visit my [Google Scholar](https://scholar.google.com/citations?user=HxUkbHkAAAAJ&hl=en).
 
+Josh Millar, **Yushan Huang**, Sarab Sethi, Hamed Haddadi, Anil Madhavapeddy, "Benchmarking Ultra-Low-Power μNPUs", in The 31st ACM Annual International Conference On Mobile Computing And Networking [MobiCom'25](https://www.sigmobile.org/mobicom/2025/), November 4-8, 2025 - Hong Kong, China. Paper available on [ArXiv](https://arxiv.org/abs/2503.22567).
 
 **Yushan Huang**, Taesik Gong, SiYoung Jang, Fahim Kawsar, Chulhong Min. "Energy Characterization of Tiny AI Accelerator-Equipped Microcontrollers". Accepted to The Second International Workshop on Human-centered Sensing, Networking, and Multi-Device Systems [HumanSys'24](https://humansys-workshop.github.io/WS/2024/index.html), Co-located with SenSys'24 and BuildSys'24, November 4, 2024 - Hangzhou, China. [Paper](https://dl.acm.org/doi/abs/10.1145/3698388.3699628). **Best Paper Award!**
 
 
-**Yushan Huang**, Ranya Alouf, Xavier Cadet, Yuchen Zhao, Payam Barnaghi, Hamed Haddadi. "Low-Energy and Adaptive Models for MCUs". Accepted to The Ninth ACM/IEEE Symposium on Edge Computing [SEC 2024](https://acm-ieee-sec.org/2024/), December 4-7, 2024, Rome, Italy. [Paper](https://ieeexplore.ieee.org/abstract/document/10818186), [Code](https://github.com/yushan-huang/MicroT).
+**Yushan Huang**, Taesik Gong, SiYoung Jang, Fahim Kawsar, Chulhong Min. "Energy Characterization of Tiny AI Accelerator-Equipped Microcontrollers". Accepted to The Second International Workshop on Human-centered Sensing, Networking, and Multi-Device Systems [HumanSys'24](https://humansys-workshop.github.io/WS/2024/index.html), Co-located with SenSys'24 and BuildSys'24, November 4, 2024 - Hangzhou, China. [Paper](https://dl.acm.org/doi/abs/10.1145/3698388.3699628). **Best Paper Award!**
 
 
-**Yushan Huang**, Josh Millar, Yuxuan Long, Yuchen Zhao, Hamed Haddadi. "Towards Low-Energy Adaptive Personalization for Resource-Constrained Devices", Accepted to The 4th Workshop on Machine Learning and Systems [EuroMLSys 2024](https://euromlsys.eu/), co-located with EuroSys'24, April 22nd 2024, Athens, Greece. [Paper](https://dl.acm.org/doi/abs/10.1145/3642970.3655826?casa_token=wt9QpHMRsrEAAAAA:P5iM6vJ1Oi-q-loBEEJSmkcRj9B2h-CqXJW99vZ2lGAcNm5JFh1Vn6pcbjRzh_XfdLVTDEmgWACWzQ), [Code](https://github.com/yushan-huang/AdaptivePersonalization).
+**Yushan Huang**, Ranya Alouf, Xavier Cadet, Yuchen Zhao, Payam Barnaghi, Hamed Haddadi. "Low-Energy and Adaptive Models for MCUs". Accepted to The Ninth ACM/IEEE Symposium on Edge Computing [SEC 2024](https://acm-ieee-sec.org/2024/), December 4-7, 2024 - Rome, Italy. [Paper](https://ieeexplore.ieee.org/abstract/document/10818186), [Code](https://github.com/yushan-huang/MicroT).
+
+
+**Yushan Huang**, Josh Millar, Yuxuan Long, Yuchen Zhao, Hamed Haddadi. "Towards Low-Energy Adaptive Personalization for Resource-Constrained Devices", Accepted to The 4th Workshop on Machine Learning and Systems [EuroMLSys 2024](https://euromlsys.eu/), co-located with EuroSys'24, April 22nd 2024 - Athens, Greece. [Paper](https://dl.acm.org/doi/abs/10.1145/3642970.3655826?casa_token=wt9QpHMRsrEAAAAA:P5iM6vJ1Oi-q-loBEEJSmkcRj9B2h-CqXJW99vZ2lGAcNm5JFh1Vn6pcbjRzh_XfdLVTDEmgWACWzQ), [Code](https://github.com/yushan-huang/AdaptivePersonalization).
 
 
 **Yushan Huang**, Yuchen Zhao, Capstick Alexander, Francesca Palermo, Hamed Haddadi, Payam Barnaghi. "Analyzing entropy features in time-series data for pattern recognition in neurological conditions." Accepted to [Artificial Intelligence in Medicine, Elsevier](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine), 2024. [Paper](https://www.sciencedirect.com/science/article/pii/S0933365724000630), [Code](https://github.com/yushan-huang/EntropyPipeline).
