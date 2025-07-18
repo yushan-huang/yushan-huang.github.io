@@ -6,6 +6,9 @@ order: 4
 ---
 
 ### Research Service
+Reviewer of [IEEE Pervasive Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7756), 2025
+
+
 <!-- * Publication/Video Chair and TPC in [MobiSys 2021 Workshop - Security and Privacy for Mobile AI](https://maisp.gitlab.io/)
 * Reviewer of [ACM Transactions on Internet of Things](https://dl.acm.org/journal/tiot), 2021
 * PC Member in [ICLR 2021 Workshop-Distributed and Private Machine Learning](https://dp-ml.github.io/2021-workshop-ICLR/)
@@ -34,6 +37,9 @@ order: 4
 (*Jul. 2016 ~ Sept. 2018*)
 
 ### Talks
+
+* "Low-Power Personalization for Ultra-Resource-Constrained Devices", [5th Xia Peixu Young Scholars Forum'](https://www.ict.ac.cn/xwgg/tzgg/202411/t20241120_7443477.html), Beijing, China, 19-20 Dec, 2024
+
 * "Towards Machine Learning and Inference for Resource-constrained MCUs", [35th Multi-Service Networks workshop (MSN 2023), aka `Coseners 2023'](https://coseners.net/history/previous/coseners-2023/), Oxford, UK, 13-14 July, 2023
 
 <!-- * "Privacy-preserving Federated Learning with Trusted Execution Environments", [Federated Learning One World (FLOW) Seminar](https://sites.google.com/view/one-world-seminar-series-flow/home), Jan. 2022
