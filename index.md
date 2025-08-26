@@ -5,7 +5,7 @@ permalink: /
 order: 1
 ---
 
-I am Yushan Huang, currently a Senior Researcher at Huawei - 2012 Laboratories - Central Software Institute - Poincaré Lab at Beijing. Before this, I have internshiped in Nokia Bell Labs - Cambridge, and Brave Software - London.
+I am Yushan Huang, currently a Senior Researcher at Huawei - 2012 Labs - Central Software Institute - Euler Lab at Beijing. Before this, I have internshiped in Nokia Bell Labs - Cambridge, and Brave Software - London.
 
 
 I finished my PhD at Imperial College London - [NetSys Lab](https://netsys.doc.ic.ac.uk/index.html) at London, supervised by [Prof. Hamed Haddadi](https://www.imperial.ac.uk/people/h.haddadi) and [Prof. Payam Barnaghi](https://www.imperial.ac.uk/people/p.barnaghi). I have a Master of Mechanical Engineering in Huazhong University of Science and Technology, supervised by Prof. Jihong Chen, working at National NC System Engineering Research Center. I have a Bachelor of Mechanical Engineering in Shandong University.
